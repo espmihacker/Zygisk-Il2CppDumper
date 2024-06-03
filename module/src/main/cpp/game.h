@@ -5,6 +5,6 @@
 #ifndef ZYGISK_IL2CPPDUMPER_GAME_H
 #define ZYGISK_IL2CPPDUMPER_GAME_H
 
-#define GamePackageName "com.tencent.tmgp.sgame"
+#define GamePackageName "com.sofunny.Sausage"
 
 #endif //ZYGISK_IL2CPPDUMPER_GAME_H
